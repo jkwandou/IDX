@@ -8,3 +8,7 @@ Week 0
 - Ran the updated scripts successfully to also generate the March 2026 outputs
 - Performed a basic validation check on the generated CSV files.
 - Organized the project structure so the code, raw files, and generated outputs are clearly separated for the next phase of work.
+
+Week 1
+- Loaded, concatenated, and filtered, by Residential property type, listing and sold data from 01-2024 to 03-2026
+- Used centralized listing and sold data for 02-2026 and 03-2026
